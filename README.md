@@ -14,3 +14,4 @@
 💐&nbsp; 𝖱𝖾𝖺𝖼𝗍 <br/>
 📚&nbsp; 𝖡𝖲𝖼. 𝖢𝖲 𝖿𝗋𝗈𝗆 𝖴𝗇𝗂𝗏𝖾𝗋𝗌𝗂𝗍𝗒 𝗈𝖿 𝖢𝖺𝗅𝗂𝖼𝗎𝗍. <br/>
 📚&nbsp; 𝖧𝖲𝖤 𝖲𝖼𝗂𝖾𝗇𝖼𝖾. <br/>
+![Web-developer](https://github.com/wilfredbenny/wilfredbenny/blob/main/icon_band.png)
