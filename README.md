@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**wilfredbenny/wilfredbenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 𝙒𝙞𝙡𝙛𝙧𝙚𝙙 𝘽𝙚𝙣𝙣𝙮
+<br/>
+&nbsp;"𝘋𝘰𝘶𝘣𝘵 𝘵𝘩𝘢𝘵 𝘵𝘩𝘦 𝘴𝘶𝘯 𝘥𝘰𝘵𝘩 𝘮𝘰𝘷𝘦; <br/> &nbsp;
+𝘋𝘰𝘶𝘣𝘵 𝘵𝘳𝘶𝘵𝘩 𝘵𝘰 𝘣𝘦 𝘢 𝘭𝘪𝘢𝘳; <br/> &nbsp;
+𝘉𝘶𝘵 𝘯𝘦𝘷𝘦𝘳 𝘥𝘰𝘶𝘣𝘵 𝘮𝘺 𝘤𝘰𝘥𝘦𝘴." <br/> &nbsp;
+<br/>
+☕&nbsp; 𝖠𝗇𝗀𝗎𝗅𝖺𝗋 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 𝖻𝗒 𝗉𝖺𝗌𝗌𝗂𝗈𝗇. <br/>
+♥️&nbsp; 𝖣𝗃𝖺𝗇𝗀𝗈 <br/>
+🥂&nbsp; 𝖩𝖺𝗏𝖺𝖲𝖼𝗋𝗂𝗉𝗍 <br/>
+🔮🪄&nbsp; 𝖲𝖠𝖲𝖲, 𝖢𝖲𝖲 <br/>
+⚙️&nbsp; 𝖬𝗈𝗇𝗀𝗈𝖣𝖡, 𝖯𝗈𝗌𝗍𝗀𝗋𝖾𝖲𝖰𝖫<br/>
+💕&nbsp; 𝖭𝗈𝖽𝖾.𝗃𝗌, 𝖤𝗑𝗉𝗋𝖾𝗌𝗌.𝗃𝗌 <br/>
+⚡&nbsp; 𝖵𝗎𝖾.𝗃𝗌 <br/>
+💐&nbsp; 𝖱𝖾𝖺𝖼𝗍 <br/>
+📚&nbsp; 𝖡𝖲𝖼. 𝖢𝖲 𝖿𝗋𝗈𝗆 𝖴𝗇𝗂𝗏𝖾𝗋𝗌𝗂𝗍𝗒 𝗈𝖿 𝖢𝖺𝗅𝗂𝖼𝗎𝗍. <br/>
+📚&nbsp; 𝖧𝖲𝖤 𝖲𝖼𝗂𝖾𝗇𝖼𝖾. <br/>
