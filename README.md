@@ -12,6 +12,8 @@
 💕&nbsp; 𝖭𝗈𝖽𝖾.𝗃𝗌, 𝖤𝗑𝗉𝗋𝖾𝗌𝗌.𝗃𝗌 <br/>
 ⚡&nbsp; 𝖵𝗎𝖾.𝗃𝗌 <br/>
 💐&nbsp; 𝖱𝖾𝖺𝖼𝗍 <br/>
+🖌️&nbsp; Adobe Photoshop <br/>
+✒️&nbsp; Adobe Illustrator <br/>
 📚&nbsp; 𝖡𝖲𝖼. 𝖢𝖲 𝖿𝗋𝗈𝗆 𝖴𝗇𝗂𝗏𝖾𝗋𝗌𝗂𝗍𝗒 𝗈𝖿 𝖢𝖺𝗅𝗂𝖼𝗎𝗍. <br/>
 📚&nbsp; 𝖧𝖲𝖤 𝖲𝖼𝗂𝖾𝗇𝖼𝖾. <br/><br/>
 ![Web-developer](https://github.com/wilfredbenny/wilfredbenny/blob/main/icon_band.png)
