@@ -64,7 +64,7 @@ But never doubt my codes."
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   &nbsp;
-  <a href="mailto:wilfredbenny@gmail.com">
+  <a href="mailto:dlsmaax@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
   &nbsp;
